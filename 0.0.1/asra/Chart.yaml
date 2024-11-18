@@ -1,6 +1,0 @@
-apiVersion: v2
-name: asra
-description: Helm chart for ASRA Service
-type: application
-version: 2.6.0-161GA
-appVersion: "2.6.0-161GA"
